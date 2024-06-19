@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pranik12/TextUtils4/static/css/main.f855e6bc.css",
+    "main.js": "/pranik12/TextUtils4/static/js/main.7f6bb15f.js",
+    "static/js/453.f4fc6863.chunk.js": "/pranik12/TextUtils4/static/js/453.f4fc6863.chunk.js",
+    "index.html": "/pranik12/TextUtils4/index.html",
+    "main.f855e6bc.css.map": "/pranik12/TextUtils4/static/css/main.f855e6bc.css.map",
+    "main.7f6bb15f.js.map": "/pranik12/TextUtils4/static/js/main.7f6bb15f.js.map",
+    "453.f4fc6863.chunk.js.map": "/pranik12/TextUtils4/static/js/453.f4fc6863.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7f6bb15f.js"
+  ]
+}
